@@ -1,4 +1,7 @@
-### Hi there 👋
+### hello～ 👋
+
+- Technical Skills：React、Node.js、Micro-Frontends、Threejs and so on
+- 🔭 [personal blog](https://taylor12138.github.io/)
 
 <!--
 **taylor12138/taylor12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
