@@ -1,7 +1,7 @@
 ### hello～ 👋
-** （ps：头像纯属ai生成，与本人肥宅性格无关😁 **
+**（ps：头像纯自己ai文生图，与本人肥宅性格无关😁**
 
-- Technical Skills：React、Node.js、Micro-Frontends、Threejs and so on
+- Technical Skills：React、Node.js、Micro-Frontends、webpack and vite，Threejs and so on
 - 🔭 [personal blog](https://taylor12138.github.io/)
 
 <!--
